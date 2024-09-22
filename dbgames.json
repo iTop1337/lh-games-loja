@@ -20,6 +20,20 @@
       "descricao": "Descrição do jogo 3",
       "foto": "jogo3.PNG",
       "preco": 400
+    },
+    {
+      "id": "4",
+      "produto": "Jogo 4 modificado",
+      "descricao": "Descrição do jogo 4 mod",
+      "foto": "jogo4.PNG",
+      "preco": 120
+    },
+    {
+      "id": "5",
+      "produto": "Jogo 5",
+      "descricao": "Descrição do jogo 5",
+      "foto": "jogo5.PNG",
+      "preco": 500
     }
   ]
 }
